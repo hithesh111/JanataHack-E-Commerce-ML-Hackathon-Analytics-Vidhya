@@ -1,10 +1,10 @@
 # JanataHack-E-Commerce-ML-Hackathon-Analytics-Vidhya
 Hackathon Training Data ,Test Data, Submission Format and my Model
 
-<a href = 'https://datahack.analyticsvidhya.com/contest/janatahack-e-commerce-analytics-ml-hackathon/'>Competition Details and Leaderboard</a>
-Ranks:
-Public Leaderboard : 8th
-Private Leaderboard : 7th
+<a href = 'https://datahack.analyticsvidhya.com/contest/janatahack-e-commerce-analytics-ml-hackathon/'>Competition Details and Leaderboard</a><br>
+Ranks:<br>
+Public Leaderboard : 8th<br>
+Private Leaderboard : 7th<br>
 
 <a href = 'https://github.com/hithesh111/JanataHack-E-Commerce-ML-Hackathon-Analytics-Vidhya/blob/master/ecommerce_final.ipynb'>Model - Final Submission</a>
 
