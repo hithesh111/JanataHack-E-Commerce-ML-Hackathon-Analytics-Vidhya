@@ -1,5 +1,4 @@
 # JanataHack-E-Commerce-ML-Hackathon-Analytics-Vidhya
-Hackathon Training Data ,Test Data, Submission Format and my Model
 
 <a href = 'https://datahack.analyticsvidhya.com/contest/janatahack-e-commerce-analytics-ml-hackathon/'>Competition Details and Leaderboard</a><br>
 Ranks:<br>
