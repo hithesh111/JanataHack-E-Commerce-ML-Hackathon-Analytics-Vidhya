@@ -1,9 +1,9 @@
 # JanataHack-E-Commerce-ML-Hackathon-Analytics-Vidhya
 
 <a href = 'https://datahack.analyticsvidhya.com/contest/janatahack-e-commerce-analytics-ml-hackathon/'>Competition Details and Leaderboard</a><br>
-Ranks:<br>
-Public Leaderboard : 8th<br>
-Private Leaderboard : 7th<br>
+Rank:<br>
+Public Leaderboard : 8<br>
+Private Leaderboard : 7<br>
 
 <a href = 'https://github.com/hithesh111/JanataHack-E-Commerce-ML-Hackathon-Analytics-Vidhya/blob/master/ecommerce_final.ipynb'>Model - Final Submission</a><br>
 
