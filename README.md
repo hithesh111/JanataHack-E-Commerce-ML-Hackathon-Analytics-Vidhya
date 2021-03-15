@@ -5,7 +5,7 @@ Rank:<br>
 Public Leaderboard : 8<br>
 Private Leaderboard : 7<br>
 
-<a href = 'https://github.com/hithesh111/JanataHack-E-Commerce-ML-Hackathon-Analytics-Vidhya/blob/master/ecommerce_final.ipynb'>Model - Final Submission</a><br>
+<a href = 'https://github.com/hithesh111/JanataHack-E-Commerce-ML-Hackathon-Analytics-Vidhya/blob/master/ecommerce_final.ipynb'>Model - Final Submission and Documentation</a><br>
 
 Dataset<br>
 <a href = 'https://github.com/hithesh111/JanataHack-E-Commerce-ML-Hackathon-Analytics-Vidhya/blob/master/train_8wry4cB.csv'>Training Data</a><br>
